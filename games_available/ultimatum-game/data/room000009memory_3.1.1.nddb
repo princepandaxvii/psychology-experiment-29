@@ -1,0 +1,92 @@
+[{
+    "time": 652,
+    "timeup": false,
+    "done": true,
+    "player": "199193177989503",
+    "stage": {
+        "stage": 3,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578007186122,
+    "session": "room000009"
+}, {
+    "time": 15631,
+    "timeup": false,
+    "id": "quizzes",
+    "order": [
+        0,
+        1,
+        2
+    ],
+    "forms": {
+        "howMuch": {
+            "id": "howMuch",
+            "choice": "1",
+            "time": 1851,
+            "nClicks": 1,
+            "order": [
+                2,
+                0,
+                1
+            ],
+            "value": "100",
+            "isCorrect": true,
+            "attempts": [
+                "1",
+                "1",
+                "1"
+            ]
+        },
+        "reject": {
+            "id": "reject",
+            "choice": "3",
+            "time": 4791,
+            "nClicks": 1,
+            "order": [
+                3,
+                1,
+                0,
+                2
+            ],
+            "value": "Both get nothing.",
+            "isCorrect": true,
+            "attempts": [
+                "3",
+                "3",
+                "3"
+            ]
+        },
+        "disconnect": {
+            "id": "disconnect",
+            "choice": "1",
+            "time": 14406,
+            "nClicks": 4,
+            "order": [
+                1,
+                4,
+                2,
+                3,
+                0
+            ],
+            "value": "A,C,D are paid the show up fee plus the bonus collected so far. B is paid only the show up fee.",
+            "isCorrect": true,
+            "attempts": [
+                "3",
+                "4",
+                "1"
+            ]
+        }
+    },
+    "missValues": [],
+    "isCorrect": true,
+    "done": true,
+    "player": "173032346594407",
+    "stage": {
+        "stage": 3,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578007201131,
+    "session": "room000009"
+}]

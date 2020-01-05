@@ -1,0 +1,98 @@
+[{
+    "time": 558,
+    "timeup": false,
+    "done": true,
+    "player": "192953223998371",
+    "stage": {
+        "stage": 3,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578006620268,
+    "session": "room000008"
+}, {
+    "time": 21201,
+    "timeup": false,
+    "id": "quizzes",
+    "order": [
+        0,
+        1,
+        2
+    ],
+    "forms": {
+        "howMuch": {
+            "id": "howMuch",
+            "choice": "1",
+            "time": 2143,
+            "nClicks": 1,
+            "order": [
+                1,
+                0,
+                2
+            ],
+            "value": "100",
+            "isCorrect": true,
+            "attempts": [
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ]
+        },
+        "reject": {
+            "id": "reject",
+            "choice": "3",
+            "time": 3381,
+            "nClicks": 1,
+            "order": [
+                1,
+                2,
+                0,
+                3
+            ],
+            "value": "Both get nothing.",
+            "isCorrect": true,
+            "attempts": [
+                "3",
+                "3",
+                "3",
+                "3",
+                "3"
+            ]
+        },
+        "disconnect": {
+            "id": "disconnect",
+            "choice": "3",
+            "time": 20500,
+            "nClicks": 6,
+            "order": [
+                4,
+                2,
+                1,
+                0,
+                3
+            ],
+            "value": "All players are paid only the show up fee.",
+            "isCorrect": true,
+            "attempts": [
+                "2",
+                "1",
+                "0",
+                "4",
+                "3"
+            ]
+        }
+    },
+    "missValues": [],
+    "isCorrect": true,
+    "done": true,
+    "player": "539262114680531",
+    "stage": {
+        "stage": 3,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578006640930,
+    "session": "room000008"
+}]

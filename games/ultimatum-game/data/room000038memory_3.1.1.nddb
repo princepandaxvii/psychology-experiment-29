@@ -1,0 +1,86 @@
+[{
+    "time": 314,
+    "timeup": false,
+    "done": true,
+    "player": "296636606270078",
+    "stage": {
+        "stage": 3,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578048530104,
+    "session": "room000038"
+}, {
+    "time": 4801,
+    "timeup": false,
+    "id": "quizzes",
+    "order": [
+        0,
+        1,
+        2
+    ],
+    "forms": {
+        "howMuch": {
+            "id": "howMuch",
+            "choice": "1",
+            "time": 1296,
+            "nClicks": 1,
+            "order": [
+                2,
+                0,
+                1
+            ],
+            "value": "100",
+            "isCorrect": true,
+            "attempts": [
+                "1"
+            ]
+        },
+        "reject": {
+            "id": "reject",
+            "choice": "3",
+            "time": 2168,
+            "nClicks": 1,
+            "order": [
+                2,
+                3,
+                0,
+                1
+            ],
+            "value": "Both get nothing.",
+            "isCorrect": true,
+            "attempts": [
+                "3"
+            ]
+        },
+        "disconnect": {
+            "id": "disconnect",
+            "choice": "3",
+            "time": 3975,
+            "nClicks": 1,
+            "order": [
+                0,
+                4,
+                2,
+                1,
+                3
+            ],
+            "value": "All players are paid only the show up fee.",
+            "isCorrect": true,
+            "attempts": [
+                "3"
+            ]
+        }
+    },
+    "missValues": [],
+    "isCorrect": true,
+    "done": true,
+    "player": "277176842786600",
+    "stage": {
+        "stage": 3,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578048534635,
+    "session": "room000038"
+}]

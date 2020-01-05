@@ -1,0 +1,151 @@
+[{
+    "time": 1214,
+    "timeup": false,
+    "done": true,
+    "player": "452013767143260",
+    "stage": {
+        "stage": 4,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578051922905,
+    "session": "room000039"
+}, {
+    "time": 11650,
+    "timeup": false,
+    "id": "ipnassf",
+    "order": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "items": {
+        "Upset": {
+            "id": "Upset",
+            "choice": "2",
+            "time": 1710,
+            "nClicks": 1,
+            "value": "3",
+            "group": "ipnassf",
+            "groupOrder": 1,
+            "isCorrect": true,
+            "attempts": []
+        },
+        "Hostile": {
+            "id": "Hostile",
+            "choice": "2",
+            "time": 2014,
+            "nClicks": 1,
+            "value": "3",
+            "group": "ipnassf",
+            "groupOrder": 2,
+            "isCorrect": true,
+            "attempts": []
+        },
+        "Alert": {
+            "id": "Alert",
+            "choice": "2",
+            "time": 2338,
+            "nClicks": 1,
+            "value": "3",
+            "group": "ipnassf",
+            "groupOrder": 3,
+            "isCorrect": true,
+            "attempts": []
+        },
+        "Ashamed": {
+            "id": "Ashamed",
+            "choice": "2",
+            "time": 5081,
+            "nClicks": 3,
+            "value": "3",
+            "group": "ipnassf",
+            "groupOrder": 4,
+            "isCorrect": true,
+            "attempts": []
+        },
+        "Inspired": {
+            "id": "Inspired",
+            "choice": "2",
+            "time": 4690,
+            "nClicks": 1,
+            "value": "3",
+            "group": "ipnassf",
+            "groupOrder": 5,
+            "isCorrect": true,
+            "attempts": []
+        },
+        "Nervous": {
+            "id": "Nervous",
+            "choice": "2",
+            "time": 5887,
+            "nClicks": 1,
+            "value": "3",
+            "group": "ipnassf",
+            "groupOrder": 6,
+            "isCorrect": true,
+            "attempts": []
+        },
+        "Determined": {
+            "id": "Determined",
+            "choice": "2",
+            "time": 6367,
+            "nClicks": 1,
+            "value": "3",
+            "group": "ipnassf",
+            "groupOrder": 7,
+            "isCorrect": true,
+            "attempts": []
+        },
+        "Attentive": {
+            "id": "Attentive",
+            "choice": "2",
+            "time": 6746,
+            "nClicks": 1,
+            "value": "3",
+            "group": "ipnassf",
+            "groupOrder": 8,
+            "isCorrect": true,
+            "attempts": []
+        },
+        "Afraid": {
+            "id": "Afraid",
+            "choice": "2",
+            "time": 10240,
+            "nClicks": 1,
+            "value": "3",
+            "group": "ipnassf",
+            "groupOrder": 9,
+            "isCorrect": true,
+            "attempts": []
+        },
+        "Active": {
+            "id": "Active",
+            "choice": "2",
+            "time": 10565,
+            "nClicks": 1,
+            "value": "3",
+            "group": "ipnassf",
+            "groupOrder": 10,
+            "isCorrect": true,
+            "attempts": []
+        }
+    },
+    "isCorrect": true,
+    "done": true,
+    "player": "364089286126980",
+    "stage": {
+        "stage": 4,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578051933679,
+    "session": "room000039"
+}]

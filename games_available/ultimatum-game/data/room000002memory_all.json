@@ -1,0 +1,457 @@
+[{
+    "time": 736,
+    "timeup": false,
+    "done": true,
+    "player": "858120256469387",
+    "stage": {
+        "stage": 1,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578005170644,
+    "session": "room000002"
+}, {
+    "time": 880,
+    "timeup": false,
+    "done": true,
+    "player": "509288158539489",
+    "stage": {
+        "stage": 1,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578005170904,
+    "session": "room000002"
+}, {
+    "time": 346,
+    "timeup": false,
+    "done": true,
+    "player": "858120256469387",
+    "stage": {
+        "stage": 2,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578005171313,
+    "session": "room000002"
+}, {
+    "time": 8376,
+    "timeup": false,
+    "done": true,
+    "player": "509288158539489",
+    "stage": {
+        "stage": 2,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578005179352,
+    "session": "room000002"
+}, {
+    "time": 1655,
+    "timeup": false,
+    "done": true,
+    "player": "858120256469387",
+    "stage": {
+        "stage": 3,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578005181024,
+    "session": "room000002"
+}, {
+    "time": 1904,
+    "timeup": false,
+    "done": true,
+    "player": "509288158539489",
+    "stage": {
+        "stage": 3,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578005181597,
+    "session": "room000002"
+}, {
+    "time": 654,
+    "timeup": false,
+    "done": true,
+    "player": "858120256469387",
+    "stage": {
+        "stage": 4,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578005182264,
+    "session": "room000002"
+}, {
+    "time": 27800,
+    "timeup": false,
+    "id": "quizzes",
+    "order": [
+        0,
+        1,
+        2
+    ],
+    "forms": {
+        "howMuch": {
+            "id": "howMuch",
+            "choice": "1",
+            "time": 1958,
+            "nClicks": 1,
+            "order": [
+                2,
+                1,
+                0
+            ],
+            "value": "100",
+            "isCorrect": true,
+            "attempts": [
+                "1",
+                "1",
+                "1",
+                "1"
+            ]
+        },
+        "reject": {
+            "id": "reject",
+            "choice": "3",
+            "time": 11864,
+            "nClicks": 1,
+            "order": [
+                2,
+                1,
+                0,
+                3
+            ],
+            "value": "Both get nothing.",
+            "isCorrect": true,
+            "attempts": [
+                "3",
+                "3",
+                "3",
+                "3"
+            ]
+        },
+        "disconnect": {
+            "id": "disconnect",
+            "choice": "3",
+            "time": 27120,
+            "nClicks": 4,
+            "order": [
+                2,
+                1,
+                0,
+                4,
+                3
+            ],
+            "value": "All players are paid only the show up fee.",
+            "isCorrect": true,
+            "attempts": [
+                "1",
+                "0",
+                "2",
+                "3"
+            ]
+        }
+    },
+    "missValues": [],
+    "isCorrect": true,
+    "done": true,
+    "player": "509288158539489",
+    "stage": {
+        "stage": 4,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578005209428,
+    "session": "room000002"
+}, {
+    "time": 1611,
+    "timeup": false,
+    "done": true,
+    "player": "858120256469387",
+    "stage": {
+        "stage": 5,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578005211063,
+    "session": "room000002"
+}, {
+    "time": 7798,
+    "timeup": false,
+    "id": "ipnassf",
+    "order": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "items": {
+        "Upset": {
+            "id": "Upset",
+            "choice": "2",
+            "time": 1569,
+            "nClicks": 1,
+            "value": "3",
+            "group": "ipnassf",
+            "groupOrder": 1,
+            "isCorrect": true,
+            "attempts": []
+        },
+        "Hostile": {
+            "id": "Hostile",
+            "choice": "2",
+            "time": 1906,
+            "nClicks": 1,
+            "value": "3",
+            "group": "ipnassf",
+            "groupOrder": 2,
+            "isCorrect": true,
+            "attempts": []
+        },
+        "Alert": {
+            "id": "Alert",
+            "choice": "2",
+            "time": 3223,
+            "nClicks": 1,
+            "value": "3",
+            "group": "ipnassf",
+            "groupOrder": 3,
+            "isCorrect": true,
+            "attempts": []
+        },
+        "Ashamed": {
+            "id": "Ashamed",
+            "choice": "2",
+            "time": 3726,
+            "nClicks": 1,
+            "value": "3",
+            "group": "ipnassf",
+            "groupOrder": 4,
+            "isCorrect": true,
+            "attempts": []
+        },
+        "Inspired": {
+            "id": "Inspired",
+            "choice": "2",
+            "time": 4289,
+            "nClicks": 1,
+            "value": "3",
+            "group": "ipnassf",
+            "groupOrder": 5,
+            "isCorrect": true,
+            "attempts": []
+        },
+        "Nervous": {
+            "id": "Nervous",
+            "choice": "2",
+            "time": 5222,
+            "nClicks": 1,
+            "value": "3",
+            "group": "ipnassf",
+            "groupOrder": 6,
+            "isCorrect": true,
+            "attempts": []
+        },
+        "Determined": {
+            "id": "Determined",
+            "choice": "2",
+            "time": 5550,
+            "nClicks": 1,
+            "value": "3",
+            "group": "ipnassf",
+            "groupOrder": 7,
+            "isCorrect": true,
+            "attempts": []
+        },
+        "Attentive": {
+            "id": "Attentive",
+            "choice": "2",
+            "time": 5896,
+            "nClicks": 1,
+            "value": "3",
+            "group": "ipnassf",
+            "groupOrder": 8,
+            "isCorrect": true,
+            "attempts": []
+        },
+        "Afraid": {
+            "id": "Afraid",
+            "choice": "2",
+            "time": 6293,
+            "nClicks": 1,
+            "value": "3",
+            "group": "ipnassf",
+            "groupOrder": 9,
+            "isCorrect": true,
+            "attempts": []
+        },
+        "Active": {
+            "id": "Active",
+            "choice": "2",
+            "time": 6802,
+            "nClicks": 1,
+            "value": "3",
+            "group": "ipnassf",
+            "groupOrder": 10,
+            "isCorrect": true,
+            "attempts": []
+        }
+    },
+    "isCorrect": true,
+    "done": true,
+    "player": "509288158539489",
+    "stage": {
+        "stage": 5,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578005217557,
+    "session": "room000002"
+}, {
+    "time": 10641,
+    "timeup": false,
+    "done": true,
+    "player": "858120256469387",
+    "stage": {
+        "stage": 6,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578005228222,
+    "session": "room000002"
+}, {
+    "time": 10320,
+    "timeup": false,
+    "offer": 40,
+    "done": true,
+    "player": "509288158539489",
+    "stage": {
+        "stage": 6,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578005228226,
+    "session": "room000002"
+}, {
+    "time": 10655,
+    "timeup": false,
+    "value": "!?_undefined",
+    "responseTo": "509288158539489",
+    "response": "ACCEPT",
+    "done": true,
+    "player": "858120256469387",
+    "stage": {
+        "stage": 6,
+        "step": 2,
+        "round": 1
+    },
+    "timestamp": 1578005228237,
+    "session": "room000002"
+}, {
+    "time": 918,
+    "timeup": false,
+    "done": true,
+    "player": "509288158539489",
+    "stage": {
+        "stage": 6,
+        "step": 2,
+        "round": 1
+    },
+    "timestamp": 1578005229154,
+    "session": "room000002"
+}, {
+    "time": 1999,
+    "timeup": false,
+    "offer": 46,
+    "done": true,
+    "player": "858120256469387",
+    "stage": {
+        "stage": 6,
+        "step": 1,
+        "round": 2
+    },
+    "timestamp": 1578005231167,
+    "session": "room000002"
+}, {
+    "time": 1666,
+    "timeup": false,
+    "done": true,
+    "player": "509288158539489",
+    "stage": {
+        "stage": 6,
+        "step": 1,
+        "round": 2
+    },
+    "timestamp": 1578005231171,
+    "session": "room000002"
+}, {
+    "time": 5356,
+    "timeup": false,
+    "done": true,
+    "player": "858120256469387",
+    "stage": {
+        "stage": 6,
+        "step": 2,
+        "round": 2
+    },
+    "timestamp": 1578005236539,
+    "session": "room000002"
+}, {
+    "time": 5352,
+    "timeup": false,
+    "value": 46,
+    "responseTo": "858120256469387",
+    "response": "ACCEPT",
+    "done": true,
+    "player": "509288158539489",
+    "stage": {
+        "stage": 6,
+        "step": 2,
+        "round": 2
+    },
+    "timestamp": 1578005236542,
+    "session": "room000002"
+}, {
+    "time": 156,
+    "timeup": false,
+    "done": true,
+    "player": "858120256469387",
+    "stage": {
+        "stage": 7,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578005236708,
+    "session": "room000002"
+}, {
+    "time": 5620,
+    "timeup": false,
+    "id": "quest",
+    "choice": "3",
+    "nClicks": 1,
+    "order": [
+        0,
+        3,
+        2,
+        4,
+        1
+    ],
+    "value": "The game was boring, not clear, too long, etc.",
+    "freetext": "",
+    "done": true,
+    "player": "509288158539489",
+    "stage": {
+        "stage": 7,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578005242744,
+    "session": "room000002"
+}]

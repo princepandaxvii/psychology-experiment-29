@@ -1,0 +1,107 @@
+[{
+    "time": 1161,
+    "timeup": false,
+    "done": true,
+    "player": "452013767143260",
+    "stage": {
+        "stage": 3,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578051898124,
+    "session": "room000039"
+}, {
+    "time": 24674,
+    "timeup": false,
+    "id": "quizzes",
+    "order": [
+        0,
+        1,
+        2
+    ],
+    "forms": {
+        "howMuch": {
+            "id": "howMuch",
+            "choice": "1",
+            "time": 4681,
+            "nClicks": 1,
+            "order": [
+                0,
+                2,
+                1
+            ],
+            "value": "100",
+            "isCorrect": true,
+            "attempts": [
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ]
+        },
+        "reject": {
+            "id": "reject",
+            "choice": "3",
+            "time": 22111,
+            "nClicks": 3,
+            "order": [
+                3,
+                2,
+                1,
+                0
+            ],
+            "value": "Both get nothing.",
+            "isCorrect": true,
+            "attempts": [
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "3",
+                "3"
+            ]
+        },
+        "disconnect": {
+            "id": "disconnect",
+            "choice": "3",
+            "time": 23618,
+            "nClicks": 8,
+            "order": [
+                2,
+                1,
+                4,
+                3,
+                0
+            ],
+            "value": "All players are paid only the show up fee.",
+            "isCorrect": true,
+            "attempts": [
+                "4",
+                "3",
+                "1",
+                "2",
+                "0",
+                "1",
+                "1",
+                "3"
+            ]
+        }
+    },
+    "missValues": [],
+    "isCorrect": true,
+    "done": true,
+    "player": "364089286126980",
+    "stage": {
+        "stage": 3,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578051921660,
+    "session": "room000039"
+}]

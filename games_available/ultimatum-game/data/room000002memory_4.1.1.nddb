@@ -1,0 +1,95 @@
+[{
+    "time": 654,
+    "timeup": false,
+    "done": true,
+    "player": "858120256469387",
+    "stage": {
+        "stage": 4,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578005182264,
+    "session": "room000002"
+}, {
+    "time": 27800,
+    "timeup": false,
+    "id": "quizzes",
+    "order": [
+        0,
+        1,
+        2
+    ],
+    "forms": {
+        "howMuch": {
+            "id": "howMuch",
+            "choice": "1",
+            "time": 1958,
+            "nClicks": 1,
+            "order": [
+                2,
+                1,
+                0
+            ],
+            "value": "100",
+            "isCorrect": true,
+            "attempts": [
+                "1",
+                "1",
+                "1",
+                "1"
+            ]
+        },
+        "reject": {
+            "id": "reject",
+            "choice": "3",
+            "time": 11864,
+            "nClicks": 1,
+            "order": [
+                2,
+                1,
+                0,
+                3
+            ],
+            "value": "Both get nothing.",
+            "isCorrect": true,
+            "attempts": [
+                "3",
+                "3",
+                "3",
+                "3"
+            ]
+        },
+        "disconnect": {
+            "id": "disconnect",
+            "choice": "3",
+            "time": 27120,
+            "nClicks": 4,
+            "order": [
+                2,
+                1,
+                0,
+                4,
+                3
+            ],
+            "value": "All players are paid only the show up fee.",
+            "isCorrect": true,
+            "attempts": [
+                "1",
+                "0",
+                "2",
+                "3"
+            ]
+        }
+    },
+    "missValues": [],
+    "isCorrect": true,
+    "done": true,
+    "player": "509288158539489",
+    "stage": {
+        "stage": 4,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578005209428,
+    "session": "room000002"
+}]

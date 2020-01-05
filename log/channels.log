@@ -1,0 +1,4 @@
+{"name":"meritocracy","level":"warn","message":"ALLOW_SELECT_TREAMENT is true, but ALLOW_PLAY_WITH_BOTS is false, so it will be ignored","timestamp":"2020-01-03T14:04:05.624Z"}
+{"name":"meritocracy","level":"warn","message":"ALLOW_SELECT_TREAMENT is true, but ALLOW_PLAY_WITH_BOTS is false, so it will be ignored","timestamp":"2020-01-03T14:05:41.866Z"}
+{"name":"meritocracy","level":"error","message":"Error while saving bonus file: C:\\Users\\User\\Downloads\\nodegame-v5.6.1\\games\\meritocracy-game-master\\data\\room000032\\bonus.csv","timestamp":"2020-01-04T12:44:17.999Z"}
+{"name":"meritocracy","level":"error","message":"{\"errno\":-4058,\"code\":\"ENOENT\",\"syscall\":\"open\",\"path\":\"C:\\\\Users\\\\User\\\\Downloads\\\\nodegame-v5.6.1\\\\games\\\\meritocracy-game-master\\\\data\\\\room000032\\\\bonus.csv\"}","timestamp":"2020-01-04T12:44:18.002Z"}

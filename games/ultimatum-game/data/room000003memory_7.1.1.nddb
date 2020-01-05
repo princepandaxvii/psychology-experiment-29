@@ -1,0 +1,37 @@
+[{
+    "time": 1656,
+    "timeup": false,
+    "done": true,
+    "player": "765280608887650",
+    "stage": {
+        "stage": 7,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578005660186,
+    "session": "room000003"
+}, {
+    "time": 5276,
+    "timeup": false,
+    "id": "quest",
+    "choice": "3",
+    "nClicks": 1,
+    "order": [
+        0,
+        4,
+        1,
+        2,
+        3
+    ],
+    "value": "The game was boring, not clear, too long, etc.",
+    "freetext": "",
+    "done": true,
+    "player": "269243237204644",
+    "stage": {
+        "stage": 7,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578005665773,
+    "session": "room000003"
+}]

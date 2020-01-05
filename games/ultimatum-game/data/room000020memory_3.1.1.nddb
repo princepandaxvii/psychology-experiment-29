@@ -1,0 +1,83 @@
+[{
+    "time": 1370,
+    "timeup": false,
+    "done": true,
+    "player": "580630216432673",
+    "stage": {
+        "stage": 3,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578011818842,
+    "session": "room000020"
+}, {
+    "time": 60001,
+    "timeup": true,
+    "id": "quizzes",
+    "order": [
+        0,
+        1,
+        2
+    ],
+    "forms": {
+        "howMuch": {
+            "id": "howMuch",
+            "choice": "!?_null",
+            "time": "!?_null",
+            "nClicks": 0,
+            "order": [
+                1,
+                2,
+                0
+            ],
+            "isCorrect": false,
+            "attempts": [
+                "!?_null"
+            ]
+        },
+        "reject": {
+            "id": "reject",
+            "choice": "!?_null",
+            "time": "!?_null",
+            "nClicks": 0,
+            "order": [
+                2,
+                1,
+                0,
+                3
+            ],
+            "isCorrect": false,
+            "attempts": [
+                "!?_null"
+            ]
+        },
+        "disconnect": {
+            "id": "disconnect",
+            "choice": "!?_null",
+            "time": "!?_null",
+            "nClicks": 0,
+            "order": [
+                0,
+                2,
+                1,
+                4,
+                3
+            ],
+            "isCorrect": false,
+            "attempts": [
+                "!?_null"
+            ]
+        }
+    },
+    "missValues": [],
+    "isCorrect": false,
+    "done": true,
+    "player": "420238933150079",
+    "stage": {
+        "stage": 3,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578011877513,
+    "session": "room000020"
+}]
