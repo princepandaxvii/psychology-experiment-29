@@ -85,9 +85,9 @@ function init() {
             db.save(prefix + '.nddb', { flags: 'w' });
 
             currentStageNoPer = currentStage.toString().replace('.', '')
-            
+
             // define ref for firebase db
-            firebaseRef = firebaseDB.ref(`/memory_${currentStageNoPer}`)
+            firebaseRef = firebaseDB.ref(`/memory_${currentStageNoPer.replace('.', '')}`)
 
             // firebaseDB.set(db.db)
             firebaseRef.set(JSON.parse(JSON.stringify(db.db)))
