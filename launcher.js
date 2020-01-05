@@ -58,6 +58,7 @@ function list(val) {
 ignoredOptions = [];
 
 // Defaults.
+// add comment
 
 confFile = null;
 
