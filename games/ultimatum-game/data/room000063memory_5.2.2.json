@@ -1,0 +1,28 @@
+[{
+    "time": 2277,
+    "timeup": false,
+    "value": "!?_undefined",
+    "responseTo": "895362443454707",
+    "response": "ACCEPT",
+    "done": true,
+    "player": "52648948932063",
+    "stage": {
+        "stage": 5,
+        "step": 2,
+        "round": 2
+    },
+    "timestamp": 1578247173955,
+    "session": "room000063"
+}, {
+    "time": 1048,
+    "timeup": false,
+    "done": true,
+    "player": "895362443454707",
+    "stage": {
+        "stage": 5,
+        "step": 2,
+        "round": 2
+    },
+    "timestamp": 1578247175002,
+    "session": "room000063"
+}]

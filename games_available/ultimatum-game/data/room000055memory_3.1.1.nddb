@@ -1,0 +1,89 @@
+[{
+    "time": 1200,
+    "timeup": false,
+    "done": true,
+    "player": "423364025022812",
+    "stage": {
+        "stage": 3,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578246078888,
+    "session": "room000055"
+}, {
+    "time": 10800,
+    "timeup": false,
+    "id": "quizzes",
+    "order": [
+        0,
+        1,
+        2
+    ],
+    "forms": {
+        "howMuch": {
+            "id": "howMuch",
+            "choice": "1",
+            "time": 10142,
+            "nClicks": 2,
+            "order": [
+                1,
+                2,
+                0
+            ],
+            "value": "100",
+            "isCorrect": true,
+            "attempts": [
+                "2",
+                "1"
+            ]
+        },
+        "reject": {
+            "id": "reject",
+            "choice": "3",
+            "time": 9021,
+            "nClicks": 2,
+            "order": [
+                1,
+                2,
+                3,
+                0
+            ],
+            "value": "Both get nothing.",
+            "isCorrect": true,
+            "attempts": [
+                "2",
+                "3"
+            ]
+        },
+        "disconnect": {
+            "id": "disconnect",
+            "choice": "1",
+            "time": 4782,
+            "nClicks": 1,
+            "order": [
+                3,
+                4,
+                1,
+                0,
+                2
+            ],
+            "value": "A,C,D are paid the show up fee plus the bonus collected so far. B is paid only the show up fee.",
+            "isCorrect": true,
+            "attempts": [
+                "1",
+                "1"
+            ]
+        }
+    },
+    "missValues": [],
+    "isCorrect": true,
+    "done": true,
+    "player": "586502903572849",
+    "stage": {
+        "stage": 3,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578246088497,
+    "session": "room000055"
+}]

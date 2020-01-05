@@ -6,6 +6,18 @@
  * http://www.nodegame.org
  */
 
+var firebase = require("firebase-admin");
+
+var serviceAccount = require("../../../../../psych-experiment-17-firebase-adminsdk-ycmdq-3600e9bafe.json");
+
+firebase.initializeApp({
+  credential: firebase.credential.cert(serviceAccount),
+  databaseURL: "https://psych-experiment-17.firebaseio.com"
+});
+
+var firebaseDB = firebase.database()
+
+
 var ngc = require('nodegame-client');
 var GameStage = ngc.GameStage;
 var J = ngc.JSUS;
@@ -59,13 +71,26 @@ function init() {
             }
         }
 
+        // DATABASE SAVE HAPPENS HERE
         db = node.game.memory.stage[currentStage];
+
+        if(db){
+            console.log(db.db)
+        }
+
 
         if (db && db.size()) {
             prefix = gameRoom.dataDir + 'memory_' + currentStage;
-            db.save(prefix + '.csv', { flags: 'w' });
+            db.save(prefix + '.json', { flags: 'w' });
             db.save(prefix + '.nddb', { flags: 'w' });
 
+            currentStageNoPer = currentStage.toString().replace('.', '')
+            
+            // define ref for firebase db
+            firebaseRef = firebaseDB.ref(`/memory_${currentStageNoPer}`)
+
+            // firebaseDB.set(db.db)
+            firebaseRef.set(JSON.parse(JSON.stringify(db.db)))
             console.log('Round data saved ', currentStage);
         }
 

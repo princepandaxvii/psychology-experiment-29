@@ -1,0 +1,26 @@
+[{
+    "time": 2674,
+    "timeup": false,
+    "done": true,
+    "player": "423364025022812",
+    "stage": {
+        "stage": 5,
+        "step": 1,
+        "round": 2
+    },
+    "timestamp": 1578246100450,
+    "session": "room000055"
+}, {
+    "time": 2491,
+    "timeup": false,
+    "offer": 5,
+    "done": true,
+    "player": "586502903572849",
+    "stage": {
+        "stage": 5,
+        "step": 1,
+        "round": 2
+    },
+    "timestamp": 1578246100452,
+    "session": "room000055"
+}]

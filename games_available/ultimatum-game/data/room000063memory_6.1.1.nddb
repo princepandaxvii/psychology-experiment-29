@@ -1,0 +1,37 @@
+[{
+    "time": 1172,
+    "timeup": false,
+    "done": true,
+    "player": "52648948932063",
+    "stage": {
+        "stage": 6,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578247176185,
+    "session": "room000063"
+}, {
+    "time": 907,
+    "timeup": false,
+    "id": "quest",
+    "choice": "0",
+    "nClicks": 1,
+    "order": [
+        2,
+        0,
+        4,
+        3,
+        1
+    ],
+    "value": "He or she was losing.",
+    "freetext": "",
+    "done": true,
+    "player": "895362443454707",
+    "stage": {
+        "stage": 6,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1578247176453,
+    "session": "room000063"
+}]
