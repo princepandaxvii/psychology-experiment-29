@@ -52,7 +52,7 @@
     "nodegame-monitor": "^5.0.0",
     "nodegame-mturk": "^5.0.0",
     "nodegame-requirements": "^5.0.0",
-    "nodegame-server": "^5.0.0",
+    "nodegame-server": "^7.0.3",
     "nodegame-widgets": "^5.0.0",
     "nodegame-window": "^5.0.0",
     "smoosh": "0.4.0",
